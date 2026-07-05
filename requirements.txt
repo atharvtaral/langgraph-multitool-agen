@@ -1,0 +1,11 @@
+langgraph 
+langchain-core
+langchain-openai
+python-dotenv
+
+langchain-groq
+tavily-python
+langchain-tavily
+wikipedia
+bs4
+streamlit
