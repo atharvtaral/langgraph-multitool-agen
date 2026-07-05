@@ -217,7 +217,7 @@ Features include
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/agentic-multitool-ai-engine.git
+https://github.com/atharvtaral/langgraph-multitool-agen
 
 cd agentic-multitool-ai-engine
 ```
@@ -356,10 +356,10 @@ END
 AI Engineer | Python Developer | LangGraph Enthusiast
 
 GitHub:
-https://github.com/yourusername
+https://github.com/atharvtaral
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/atharv-taral-4546at/
 
 ---
 
