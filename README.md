@@ -1,4 +1,4 @@
-# 🤖 Agentic Multi-Tool AI Engine
+# 🤖 Langgraph Multi-Tool AI Engine
 
 A production-ready **AI Agent** built using **LangGraph**, **Llama-3.3-70B-Versatile (Groq)**, and **Streamlit**. The application intelligently routes user requests to specialized tools such as live internet search, weather forecasting, Wikipedia knowledge retrieval, and website content extraction using LangGraph's agentic workflow.
 
