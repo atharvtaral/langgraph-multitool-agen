@@ -190,25 +190,25 @@ Features include
 
 ## 🌦️ Weather Tool
 
-<img src="weather_output.png" width="100%" alt="Weather Tool">
+<img src="weather_output.PNG" width="100%" alt="Weather Tool">
 
 ---
 
 ## 📚 Wikipedia Tool
 
-<img src="wikipedia_output.png" width="100%" alt="Wikipedia Tool">
+<img src="wikipedia_output.PNG" width="100%" alt="Wikipedia Tool">
 
 ---
 
 ## 🌐 Website Scraper
 
-<img src="scraper_output.png" width="100%" alt="Website Scraper">
+<img src="scraper_output.PNG" width="100%" alt="Website Scraper">
 
 ---
 
 ## 🔍 Internet Search
 
-<img src="search_output.png" width="100%" alt="Internet Search">
+<img src="search_output.PNG" width="100%" alt="Internet Search">
 
 ---
 
