@@ -275,7 +275,7 @@ streamlit run app.py
 Then open
 
 ```
-http://localhost:8501
+[http://localhost:8501](https://langgraph-multitool-agen-1232.streamlit.app/)
 ```
 
 ---
